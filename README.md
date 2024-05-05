@@ -1,3 +1,18 @@
+# AirBnB Clone v4
+
+Author: [Your Name]
+
+## Description
+
+This project is a continuation of the AirBnB clone series, focusing on adding dynamic features to the web application.
+
+## Contributions
+
+- Added dynamic filtering of amenities.
+- Integrated API status indicator.
+- Fetched places dynamically from the backend.
+- Implemented filtering places by amenity.
+
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
